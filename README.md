@@ -24,9 +24,9 @@ I am Ashwin, a **FrontEnd Developer**, with a keen eye for detail and beautiful 
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-win-N&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-win-N&show_icons=true)  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-win-N&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/Ash-win-N)  
+![Profile views](https://gpvc.arturio.dev/Ash-win-N)   -->
